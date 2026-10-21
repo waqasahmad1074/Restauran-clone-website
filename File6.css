@@ -1,0 +1,91 @@
+#main{
+    height: 100vh;
+    width: 100%;
+}
+
+.one{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+#navbarNav ul li a{
+   font-family: "Nunito Sans", sans-serif;
+}
+#navbarNav button{
+     height: 40px;
+    width: 150px;
+    background-color: #FEA116;
+    border-radius: 5px;
+    border-color: #FEA116;
+    font-family: "Nunito Sans", sans-serif;
+}
+.container-fluid {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.two{
+    width: 100%;
+    margin-top: 100px;
+   }
+   .two button{
+    height: 58px;
+    width: 213px;
+    background-color: #FEA116;
+    border-radius: 5px;
+    border-color: #FEA116;
+
+   }
+#first{
+    margin-top: 80px;
+    
+}
+#first h1{
+    color: blueviolet;
+    font-size: 80px;
+    font-weight: bold;
+}
+ #first p{
+    color: aqua;
+    font-size: 16px;
+}
+ #first button{
+    height: 40px;
+    width: 150px;
+    font-weight: 500;
+    font-size: large;
+    color: #FEA116;
+}
+#second image{
+   animation: move 25s linear infinite;
+      
+}
+@keyframes move {
+    100%{
+        transform: rotate(360deg);
+    }
+ 
+}
+
+
+.three{
+    margin-top: 100px;
+}
+.four{
+    margin-top: 100px;
+}
+.five{
+    margin-top: 100px;
+}
+.six{
+    margin-top: 100px;
+}
+.seven{
+    margin-top: 100px;
+}
+.eight{
+    margin-top: 100px;
+}
+
+
+
